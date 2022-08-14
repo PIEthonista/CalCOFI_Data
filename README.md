@@ -1,7 +1,7 @@
 # CalCOFI_Data
 TechEdu ML 2022
 
-This repository contains over 60 years of oceanographic data from The California Cooperative Oceanic Fisheries Investigations (CalCOFI). The data above is purposely reenginered to suit the needs of TechEdu ML 2022's Machine Learning Tutorials. The above data is originally sourced from <a herf='https://www.kaggle.com/datasets/sohier/calcofi?resource=download&select=bottle.csv'>Kaggle</a>.
+<p>This repository contains over 60 years of oceanographic data from The California Cooperative Oceanic Fisheries Investigations (CalCOFI). The data above is purposely reenginered to suit the needs of TechEdu ML 2022's Machine Learning Tutorials. The above data is originally sourced from <a herf='https://www.kaggle.com/datasets/sohier/calcofi'>Kaggle</a>.</p>
 
 
 <h3>Context</h3>
